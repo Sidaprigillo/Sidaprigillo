@@ -65,7 +65,7 @@
        <tr>
     <td><a href="https://www.credly.com/go/RMXFvfQD">Data Science for Business</a></td>
     <td>IBM</td>
-    <td>September 17, 2023</td>
+    <td>September 21, 2023</td>
   </tr>
         <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/c1ea006ae104474daf57fe857f082b6b
