@@ -59,24 +59,24 @@
         <tr>
     <td><a href="https://www.ibm-institute.com/verify/?code=1177801-169-691-4128
 ">Strategy & Management</a></td>
-    <td>IBMI</td>
+    <td>International Business Management Institute</td>
     <td>October 10, 2023</td>
   </tr>
        <tr>
     <td><a href="https://www.credly.com/go/RMXFvfQD">Data Science for Business</a></td>
-    <td>IBM</td>
+    <td>Cognitive Class</td>
     <td>September 21, 2023</td>
   </tr>
         <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/c1ea006ae104474daf57fe857f082b6b
 ">Data Analytics & Regression</a></td>
-    <td>IBM</td>
+    <td>Cognitive Class</td>
     <td>September 22, 2023</td>
   </tr>
   <tr>
         <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/cd6ccccb83554ba9892f2c5b6fb12e8a">Predictive Modeling Fundamentals</a></td>
-    <td>IBM</td>
+    <td>Cognitive Class</td>
     <td>September 22, 2023</td>
   </tr>
     <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=sharing">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
