@@ -16,7 +16,8 @@
 
 
 <h3 align="center">
-   IT Student at New Era University, Quezon City, Philippines 
+   IT Student at New Era University, <br>
+    Quezon City, Philippines 
 </h3>
 
 <br>
