@@ -62,7 +62,7 @@
     <td>December 20, 2021</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1h1q8AnuxO6kgj_oVRz32z_Qie5gF4jz-/view?usp=share_link">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
+    <td><a href="https://drive.google.com/file/d/1h1q8AnuxO6kgj_oVRz32z_Qie5gF4jz-/view?usp=sharing">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
     <td>Oracle University</td>
     <td>December 10, 2021</td>
   </tr>
