@@ -71,13 +71,13 @@
     <td><a href="https://courses.cognitiveclass.ai/certificates/c1ea006ae104474daf57fe857f082b6b
 ">Data Analytics & Regression</a></td>
     <td>IBM</td>
-    <td>September 17, 2023</td>
+    <td>September 22, 2023</td>
   </tr>
   <tr>
         <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/cd6ccccb83554ba9892f2c5b6fb12e8a">Predictive Modeling Fundamentals</a></td>
     <td>IBM</td>
-    <td>September 17, 2023</td>
+    <td>September 22, 2023</td>
   </tr>
     <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=sharing">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
     <td>Oracle University</td>
