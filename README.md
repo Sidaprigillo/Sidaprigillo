@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQHdfq6Ew5GymQ/profile-displaybackgroundimage-shrink_350_1400/0/1695992459500?e=1703116800&v=beta&t=JrYc-_dU5YUCkqPBX_eJmVQK8OwFNhNIAoYWQODCVBI)](https://rishavchanda.io)
-<h1 align="center">Resid Teomar Aprigillo</h1>
+<h1 align="center">RESID TEOMAR APRIGILLO</h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/resid-aprigillo-b85568255/">
