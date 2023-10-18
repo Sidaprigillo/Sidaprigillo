@@ -51,6 +51,11 @@
     <td>MST Connect PH</td>
     <td>September 29, 2023</td>
   </tr>
+    <tr>
+    <td><a href="https://drive.google.com/file/d/171xuPjrBteGugOvEv_okRN5pEFwE5VCn/view?usp=share_link">Project Management</a></td>
+    <td>MST Connect PH</td>
+    <td>September 17, 2023</td>
+  </tr>
   <tr>
     <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=share_link">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
     <td>Oracle University</td>
