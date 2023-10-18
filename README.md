@@ -1,5 +1,4 @@
-### Hi there 👋
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQEPtLILVd14eQ/profile-displaybackgroundimage-shrink_350_1400/0/1696643029457?e=1701907200&v=beta&t=eZtkO7fBOu2LrH18CyHDQQWjcqR7Sd6xjw4YiUmCzyM)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQHdfq6Ew5GymQ/profile-displaybackgroundimage-shrink_350_1400/0/1695992459500?e=1703116800&v=beta&t=JrYc-_dU5YUCkqPBX_eJmVQK8OwFNhNIAoYWQODCVBI)](https://rishavchanda.io)
 <h1 align="center">Resid Teomar Aprigillo</h1>
 
 <p align="center">
