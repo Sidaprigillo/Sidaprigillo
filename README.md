@@ -22,17 +22,6 @@
 
 <br>
 
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljantangalin&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width:50%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=michaeljantangalin&show_icons=true&locale=en" alt="GitHub Stats" style="width: 50%; height: auto;" />
-</div>
-<div align="center">
-  <img style="width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljantangalin" alt="GitHub Streak" />
-</div>
-
-
-
 <h1 align="left">Languages and Tools:</h1>
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
