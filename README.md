@@ -52,7 +52,7 @@
     <td>September 29, 2023</td>
   </tr>
     <tr>
-    <td><a href="https://drive.google.com/file/d/171xuPjrBteGugOvEv_okRN5pEFwE5VCn/view?usp=share_link">Project Management</a></td>
+    <td><a href="https://drive.google.com/file/d/1rVHHuAZ5P8JO-jRfsByT4iUD7YOHWbwv/view?usp=drive_link">Project Management</a></td>
     <td>MST Connect PH</td>
     <td>September 17, 2023</td>
   </tr>
