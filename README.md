@@ -52,15 +52,15 @@
     <td>September 29, 2023</td>
   </tr>
     <tr>
+    <td><a href="https://drive.google.com/file/d/1rVHHuAZ5P8JO-jRfsByT4iUD7YOHWbwv/view?usp=drive_link">Project Management</a></td>
+    <td>MST Connect PH</td>
+    <td>September 17, 2023</td>
+  </tr>
+        <tr>
     <td><a href="https://www.ibm-institute.com/verify/?code=1177801-169-691-4128
 ">Strategy & Management</a></td>
     <td>IBMI</td>
     <td>October 10, 2023</td>
-  </tr>
-    <tr>
-    <td><a href="https://drive.google.com/file/d/1rVHHuAZ5P8JO-jRfsByT4iUD7YOHWbwv/view?usp=drive_link">Project Management</a></td>
-    <td>MST Connect PH</td>
-    <td>September 17, 2023</td>
   </tr>
        <tr>
     <td><a href="https://www.credly.com/go/RMXFvfQD">Data Science for Business</a></td>
