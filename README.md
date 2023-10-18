@@ -84,6 +84,11 @@
     <td>Cognitive Class</td>
     <td>September 21, 2023</td>
   </tr>
+      <tr>
+    <td><a href="">Prompt Engineering</a></td>
+    <td>Cognitive Class</td>
+    <td>September 21, 2023</td>
+  </tr>
   </tr>
     <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=sharing">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
     <td>Oracle University</td>
