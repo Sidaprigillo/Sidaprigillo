@@ -57,13 +57,13 @@
     <td>September 17, 2023</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=share_link">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
+    <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=sharing">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
     <td>Oracle University</td>
-    <td>December 18, 2021</td>
+    <td>December 20, 2021</td>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/file/d/1h1q8AnuxO6kgj_oVRz32z_Qie5gF4jz-/view?usp=share_link">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
     <td>Oracle University</td>
-    <td>November 26, 2021</td>
+    <td>December 10, 2021</td>
   </tr>
 </table>
