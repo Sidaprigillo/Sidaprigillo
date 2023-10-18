@@ -79,6 +79,11 @@
     <td><a href="https://courses.cognitiveclass.ai/certificates/cd6ccccb83554ba9892f2c5b6fb12e8a">Predictive Modeling Fundamentals</a></td>
     <td>Cognitive Class</td>
     <td>September 22, 2023</td>
+      <tr>
+    <td><a href="https://courses.cognitiveclass.ai/certificates/db9ca7f5358c490b96feae0fd04dd86a">Data Privacy Fundamentals</a></td>
+    <td>Cognitive Class</td>
+    <td>September 21, 2023</td>
+  </tr>
   </tr>
     <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=sharing">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
     <td>Oracle University</td>
