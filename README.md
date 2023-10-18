@@ -47,8 +47,8 @@
     <th>Date Achieved</th>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/drive/folders/1icPIl5AZz9cdfumlTjBa3D5gt7k-GTpw">IT Management</a></td>
-    <td>Cognitive Class</td>
+    <td><a href="https://drive.google.com/file/d/171xuPjrBteGugOvEv_okRN5pEFwE5VCn/view?usp=share_link">IT Management</a></td>
+    <td>MST Connect PH</td>
     <td>September 29, 2023</td>
   </tr>
   <tr>
