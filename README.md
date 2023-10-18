@@ -31,13 +31,6 @@
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> &nbsp &nbsp &nbsp &nbsp
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-&nbsp &nbsp &nbsp &nbsp
 </p>
 
 <h1 align="left">Education</h1>
@@ -54,17 +47,17 @@
     <th>Date Achieved</th>
   </tr>
   <tr>
-    <td><a href="https://courses.cognitiveclass.ai/certificates/fba705c74904411cafc42a2982036223">Data Privacy Fundamentals</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1icPIl5AZz9cdfumlTjBa3D5gt7k-GTpw">IT Management</a></td>
     <td>Cognitive Class</td>
     <td>September 29, 2023</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1g9iNFkG7KHYxiQHPWAyf_gQWmyH56g2B/view?usp=sharing">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
+    <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=share_link">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
     <td>Oracle University</td>
     <td>December 18, 2021</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1Tx5c5v93v-mwD2WPQ8eRr3Y1Tm9cVoPg/view?usp=drive_link">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
+    <td><a href="https://drive.google.com/file/d/1h1q8AnuxO6kgj_oVRz32z_Qie5gF4jz-/view?usp=share_link">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
     <td>Oracle University</td>
     <td>November 26, 2021</td>
   </tr>
