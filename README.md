@@ -42,8 +42,8 @@
 <h1 align="left">Work Experience</h1>
 
 <p>
-Player Support Agent & Community Moderator (Full-time)				
-Keywords Studios Manila
+<b>Player Support Agent & Community Moderator (Full-time)</b>	<br>			
+<b>Keywords Studios Manila</b>
 July 2022 – March 2023
 Duties & Responsibilities
 • Provides customer service support via non-voice, email support and ticketing.
