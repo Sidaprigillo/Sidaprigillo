@@ -40,8 +40,9 @@
 2020 - Present <br></p>
 
 <h1 align="left">Work Experience</h1>
-<p
-	Player Support Agent & Community Moderator (Full-time)				
+
+<p>
+Player Support Agent & Community Moderator (Full-time)				
 Keywords Studios Manila
 July 2022 – March 2023
 Duties & Responsibilities
