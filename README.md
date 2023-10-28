@@ -39,6 +39,25 @@
     Bachelor of Science in Information Technology <br>
 2020 - Present <br></p>
 
+<h1 align="left">Work Experience</h1>
+<p
+	Player Support Agent & Community Moderator (Full-time)				
+Keywords Studios Manila
+July 2022 – March 2023
+Duties & Responsibilities
+• Provides customer service support via non-voice, email support and ticketing.
+• Delivers timely, accurate and respectful answers to customers’ questions and issues.
+• Take ownership of Customer Service incidents and work to successfully resolve them.
+• Utilizing internal ticketing system to log all requests and activities.
+• Troubleshoots and provides technical assistance.
+• Escalates complex issues as needed.
+• Maintain accurate records of player interactions, including the issues reported and the solutions provided.
+• Bug Reporting by encouraging players to report in-game bugs or issues and assist them in providing detailed information for bug reports.
+• Billing and Payment Support by addressing player questions and issues related to in-game purchases, payment methods, subscription services, and refund requests.
+• Compliance by adhering to company and client-specific policies and procedures, including privacy regulations and security protocols, to ensure compliance with industry standards.
+</p>
+
+
 <h1 align="left">Certification and Knowledge Proficiency</h1>
 
 <table>
