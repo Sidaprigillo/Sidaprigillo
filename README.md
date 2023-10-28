@@ -43,19 +43,20 @@
 
 <p>
 <b>Player Support Agent & Community Moderator (Full-time)</b>	<br>			
-<b>Keywords Studios Manila</b>
-July 2022 – March 2023
-Duties & Responsibilities
-• Provides customer service support via non-voice, email support and ticketing.
-• Delivers timely, accurate and respectful answers to customers’ questions and issues.
-• Take ownership of Customer Service incidents and work to successfully resolve them.
-• Utilizing internal ticketing system to log all requests and activities.
-• Troubleshoots and provides technical assistance.
-• Escalates complex issues as needed.
-• Maintain accurate records of player interactions, including the issues reported and the solutions provided.
-• Bug Reporting by encouraging players to report in-game bugs or issues and assist them in providing detailed information for bug reports.
-• Billing and Payment Support by addressing player questions and issues related to in-game purchases, payment methods, subscription services, and refund requests.
-• Compliance by adhering to company and client-specific policies and procedures, including privacy regulations and security protocols, to ensure compliance with industry standards.
+<b>Keywords Studios Manila</b> <br>	
+July 2022 – March 2023 <br>	
+<br>		
+<b>Duties & Responsibilities</b> <br>	
+• Provides customer service support via non-voice, email support and ticketing. <br>	
+• Delivers timely, accurate and respectful answers to customers’ questions and issues. <br>	
+• Take ownership of Customer Service incidents and work to successfully resolve them. <br>	
+• Utilizing internal ticketing system to log all requests and activities. <br>	
+• Troubleshoots and provides technical assistance. <br>	
+• Escalates complex issues as needed. <br>	
+• Maintain accurate records of player interactions, including the issues reported and the solutions provided. <br>	
+• Bug Reporting by encouraging players to report in-game bugs or issues and assist them in providing detailed information for bug reports. <br>	
+• Billing and Payment Support by addressing player questions and issues related to in-game purchases, payment methods, subscription services, and refund requests. <br>	
+• Compliance by adhering to company and client-specific policies and procedures, including privacy regulations and security protocols, to ensure compliance with industry standards. <br>	
 </p>
 
 
