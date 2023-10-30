@@ -75,6 +75,12 @@ July 2022 – March 2023 <br>
     <td>October 30, 2023</td>
   </tr>
         <tr>
+    <td><a href="https://drive.google.com/file/d/1_R9w7px6eRfE0urdSDfvgNN3fNERqabm/view?usp=sharing
+">Oracle Cloud Data Management 2023 Foundations Associate <br> (1Z0-1105-23)    </a></td>
+    <td>Oracle University</td>
+    <td>October 30, 2023</td>
+  </tr>
+        <tr>
     <td><a href="https://www.ibm-institute.com/verify/?code=1177801-169-855-3484
 ">Leadership & Team Development</a></td>
     <td>International Business Management Institute</td>
