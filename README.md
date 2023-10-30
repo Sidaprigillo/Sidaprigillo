@@ -70,7 +70,7 @@ July 2022 – March 2023 <br>
   </tr>
       <tr>
     <td><a href="https://www.ibm-institute.com/verify/?code=1177801-169-691-4128
-">Oracle Cloud Infrastructure 2023 AI Foundations Associate (1Z0-1122-23)<br>    </a></td>
+">Oracle Cloud Infrastructure 2023 AI Foundations Associate <br> (1Z0-1122-23)    </a></td>
     <td>Oracle University</td>
     <td>October 30, 2023</td>
   </tr>
