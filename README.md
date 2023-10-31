@@ -136,12 +136,13 @@ July 2022 – March 2023 <br>
   </tr>
   </tr>
     <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=sharing"
-            >Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
+            >Oracle Cloud Infrastructure Foundations 2021 Certified Associate <br> (1Z0–1085–21)</a></td>
     <td>Oracle University</td>
     <td>December 20, 2021</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1h1q8AnuxO6kgj_oVRz32z_Qie5gF4jz-/view?usp=sharing">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
+    <td><a href="https://drive.google.com/file/d/1h1q8AnuxO6kgj_oVRz32z_Qie5gF4jz-/view?usp=sharing"
+            >Oracle Autonomous Database Cloud 2021 Certified Specialist <br> (1Z0-931-21) </a></td>
     <td>Oracle University</td>
     <td>December 10, 2021</td>
   </tr>
