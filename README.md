@@ -135,7 +135,8 @@ July 2022 – March 2023 <br>
     <td>September 21, 2023</td>
   </tr>
   </tr>
-    <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=sharing">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
+    <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=sharing"
+            >Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a></td>
     <td>Oracle University</td>
     <td>December 20, 2021</td>
   </tr>
