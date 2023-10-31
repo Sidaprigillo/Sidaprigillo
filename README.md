@@ -72,7 +72,7 @@ July 2022 – March 2023 <br>
     <td><a href="https://drive.google.com/file/d/16Dz8y39AW32F8hHBD1N0K5JHzmdwEHEJ/view?usp=sharing
 ">Oracle Cloud Infrastructure 2023 Foundations Associate <br> (1Z0-1085-23)    </a></td>
     <td>Oracle University</td>
-    <td>October 30, 2023</td>
+    <td>October 31, 2023</td>
   </tr>
       <tr>
     <td><a href="https://drive.google.com/file/d/1MbfxNf08Iu7GRcnOhfilJ6W3voZtXM4E/view?usp=sharing
