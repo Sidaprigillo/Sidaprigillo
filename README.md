@@ -69,19 +69,19 @@ July 2022 – March 2023 <br>
     <th>Date Achieved</th>
   </tr>
         <tr>
-    <td><a href="https://drive.google.com/file/d/16Dz8y39AW32F8hHBD1N0K5JHzmdwEHEJ/view?usp=sharing
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6964AA07537139C71C03F4C0D804A97D3033D5D22CC47E887ABFB661E65E31AA
 ">Oracle Cloud Infrastructure 2023 Foundations Associate <br> (1Z0-1085-23)    </a></td>
     <td>Oracle University</td>
     <td>October 31, 2023</td>
   </tr>
       <tr>
-    <td><a href="https://drive.google.com/file/d/1MbfxNf08Iu7GRcnOhfilJ6W3voZtXM4E/view?usp=sharing
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8937F6FA464C0ED4334238FE9259EF3E7854B342C0A6A3B76DA8CAF58BA138EA
 ">Oracle Cloud Infrastructure 2023 AI Foundations Associate <br> (1Z0-1122-23)    </a></td>
     <td>Oracle University</td>
     <td>October 30, 2023</td>
   </tr>
         <tr>
-    <td><a href="https://drive.google.com/file/d/1_R9w7px6eRfE0urdSDfvgNN3fNERqabm/view?usp=sharing
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=84C636D10CD75375A4CD2F6AC1C478DC64DE8A875FDA567D381A5237B54C9ED1
 ">Oracle Cloud Data Management 2023 Foundations Associate <br> (1Z0-1105-23)    </a></td>
     <td>Oracle University</td>
     <td>October 30, 2023</td>
@@ -110,38 +110,38 @@ July 2022 – March 2023 <br>
   </tr>
        <tr>
     <td><a href="https://www.credly.com/go/RMXFvfQD">Data Science for Business</a></td>
-    <td>Cognitive Class</td>
+    <td>IBM Cognitive Class</td>
     <td>September 21, 2023</td>
   </tr>
         <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/c1ea006ae104474daf57fe857f082b6b
 ">Data Analytics & Regression</a></td>
-    <td>Cognitive Class</td>
+    <td>IBM Cognitive Class</td>
     <td>September 22, 2023</td>
   </tr>
   <tr>
         <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/cd6ccccb83554ba9892f2c5b6fb12e8a">Predictive Modeling Fundamentals</a></td>
-    <td>Cognitive Class</td>
+    <td>IBM Cognitive Class</td>
     <td>September 22, 2023</td>
       <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/db9ca7f5358c490b96feae0fd04dd86a">Data Privacy Fundamentals</a></td>
-    <td>Cognitive Class</td>
+    <td>IBM Cognitive Class</td>
     <td>September 21, 2023</td>
   </tr>
       <tr>
     <td><a href="">Prompt Engineering</a></td>
-    <td>Cognitive Class</td>
+    <td>IBM Cognitive Class</td>
     <td>September 21, 2023</td>
   </tr>
   </tr>
-    <td><a href="https://drive.google.com/file/d/1t-2Ugb7q6BaJoUZtghzHh8VF3iy1NoNg/view?usp=sharing"
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5191D802478F67774046651D2AAB35F5AD1F1936D52F61D30BCF7E436AC58B61"
             >Oracle Cloud Infrastructure Foundations 2021 Certified Associate <br> (1Z0–1085–21)</a></td>
     <td>Oracle University</td>
     <td>December 20, 2021</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1h1q8AnuxO6kgj_oVRz32z_Qie5gF4jz-/view?usp=sharing"
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C6A2F6BDCF4734876B1882389F4E55F3CBCF2B762D2DB32BBB2533502FB22898"
             >Oracle Autonomous Database Cloud 2021 Certified Specialist <br> (1Z0-931-21) </a></td>
     <td>Oracle University</td>
     <td>December 10, 2021</td>
